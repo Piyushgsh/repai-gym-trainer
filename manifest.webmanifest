@@ -1,0 +1,9 @@
+{
+  "name": "REP//AI Gym Trainer",
+  "short_name": "REP//AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b0a",
+  "theme_color": "#080b0a",
+  "icons": []
+}
